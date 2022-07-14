@@ -8,6 +8,7 @@ print(value) if (value % 2 == 0) else 1
 """
 cls = str()  # методы rjust -добавляет слева элементы,
 # r/lstrip - удаление элементов слева/ справа removeprefix/removesuffix
+# и конечно в str это срез 
 
 cls1 = list()  # методы: pop insert remove append
 
